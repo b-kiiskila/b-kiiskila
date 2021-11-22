@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Benjamin a software developer based in Victoria British Columbia.
+I'm Benjamin a software developer based in Victoria, British Columbia.
 
 This account is used for my professional work, if you're interested in seeing some of my more personal projects and other contributions then send me an [email](mailto:benjaminckiiskila@gmail.com) and I can provide you with some examples.
 
