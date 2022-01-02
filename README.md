@@ -23,6 +23,7 @@ Below you can see an overview of the technologies I have experience working with
 - Backend Frameworks
   - [FastAPI](https://fastapi.tiangolo.com/)
   - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+  - [Helidon](https://helidon.io/)
   - [Javalin](https://javalin.io/)
   - [Vert.x](https://vertx.io/)
   - [Laravel Lumen](https://lumen.laravel.com/)
