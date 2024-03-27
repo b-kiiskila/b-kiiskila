@@ -7,13 +7,13 @@ This account is used for my professional work, if you're interested in seeing so
 Below you can see an overview of the technologies I have experience working with, as well as a few key areas of interest to me.
 
 ### Programming Languages
-- [Java](https://openjdk.java.net/) (7-17) / *7+ Years*
+- [Java](https://openjdk.java.net/) (7-21) / *10+ Years*
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ([.NET](https://dotnet.microsoft.com/)/[Mono](https://www.mono-project.com/)) / *5+ Years*
-- [Python 3](https://www.python.org/) / *4+ Years*
+- [Python 3](https://www.python.org/) / *5+ Years*
 - [Scala](https://www.scala-lang.org/) / *2+ Years*
 - [Kotlin](https://kotlinlang.org/) / *1+ Year*
 - [PHP](https://www.php.net/) / *1+ Year*
-- [Go](https://golang.org/) / *<1 Year (Learning)*
+- [Go](https://golang.org/) / *1 Year*
 
 ### Tools and Frameworks
 - Cloud Platforms
@@ -24,9 +24,14 @@ Below you can see an overview of the technologies I have experience working with
   - [FastAPI](https://fastapi.tiangolo.com/)
   - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
   - [Helidon](https://helidon.io/)
+  - [Spring Boot](https://spring.io/projects/spring-boot)
   - [Javalin](https://javalin.io/)
+  - [Chi](https://github.com/go-chi/chi)
   - [Vert.x](https://vertx.io/)
   - [Laravel Lumen](https://lumen.laravel.com/)
+- Data Querying / Definitions
+  - [GRPC](https://grpc.io/)
+  - [GraphQL](https://graphql.org/)
 - Frontend Frameworks
   - [Vue.JS](https://vuejs.org/)
   - [React.JS](https://reactjs.org/)
